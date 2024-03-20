@@ -12,7 +12,7 @@ export default {
 
 <template>
   <header
-    class="bg-[url('./assets/bg-patern.jpg')] w-full bg-cover h-[100vh] flex justify-center flex-col"
+    class="bg-[url('../public/assets/bg-patern.jpg')] w-full bg-cover h-[100vh] flex justify-center flex-col"
   >
     <section class="flex flex-col justify-center items-center">
       <h1
