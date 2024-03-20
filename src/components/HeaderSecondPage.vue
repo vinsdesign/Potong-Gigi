@@ -10,7 +10,7 @@ export default {
 
 <template>
   <header
-    class="bg-[url('../../public/assets/bg-patern.jpg')] w-full bg-cover xxsm:h-[700px] lg:h-[840px] flex justify-center flex-col"
+    class="bg-[url('./assets/bg-patern.jpg')] w-full bg-cover xxsm:h-[700px] lg:h-[840px] flex justify-center flex-col"
   >
     <section class="flex flex-col justify-center items-center">
       <h1
